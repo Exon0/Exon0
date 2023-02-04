@@ -36,6 +36,7 @@ I'm Ilyes Bettaieb, currently a Software Engineer student  at  [ESPRIT](https://
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Exon0&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exon0&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exon0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Exon0.Exon0)
