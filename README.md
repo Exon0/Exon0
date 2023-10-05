@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ilyes Bettaieb, currently a Software Engineer student  at  [ESPRIT](https://esprit.tn/). Find out more about me & feel free to connect with me here :                  
+I'm Ilyes Bettaieb, currently a Software Engineer student  at  [ESPRIT](https://esprit.tn/) and an exchange student at [CESI](https://www.cesi.fr/)  Find out more about me & feel free to connect with me here :                  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/ilyes-bettaieb/)](https://www.linkedin.com/in/ilyes-bettaieb/)
-[![Gmail Badge](https://img.shields.io/badge/-ilyes.bettaieb@esprit.tn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilyes.bettaieb@esprit.tn)](mailto:ilyes.bettaieb@esprit.tn)
+[![Gmail Badge](https://img.shields.io/badge/-ilyesbettaieb5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilyesbettaieb5@gmail.com)](mailto:ilyesbettaieb5@gmail.com)
 
 ## ⚡ Technologies
 
